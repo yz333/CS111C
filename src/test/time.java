@@ -4,6 +4,7 @@ public class time {
     private float hour;
     private float minute;
     private float second;
+    private float tree;
 
 
     public time(float hr, float min, float sec)
